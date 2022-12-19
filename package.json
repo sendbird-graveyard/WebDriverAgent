@@ -63,7 +63,7 @@
     "@appium/base-driver": "^8.3.0",
     "@appium/support": "^2.55.3",
     "@babel/runtime": "^7.0.0",
-    "appium-ios-simulator": "^4.0.0",
+    "appium-ios-simulator": "^5.0.2",
     "async-lock": "^1.0.0",
     "asyncbox": "^2.5.3",
     "axios": "^0.x",
