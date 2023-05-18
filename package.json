@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@appium/base-driver": "^8.3.0",
-    "@appium/support": "^2.55.3",
+    "@appium/support": "^4.0.0",
     "@babel/runtime": "^7.0.0",
     "appium-ios-simulator": "^4.0.0",
     "async-lock": "^1.0.0",
